@@ -1,1 +1,0 @@
-# Basit-akilli-hesap-makinesi
